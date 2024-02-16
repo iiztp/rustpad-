@@ -4,3 +4,4 @@ members = [
     "rustpad-server",
     "rustpad-wasm",
 ]
+resolver= "2"
